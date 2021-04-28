@@ -9,3 +9,5 @@ module.exports = {
   },
   snapshotSerializers: ["jest-serializer-vue"]
 };
+hi hello
+bye
